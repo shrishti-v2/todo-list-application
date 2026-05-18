@@ -1,4 +1,3 @@
-# web_development_task_2
 ## To-do List code ##
 # Overview
 A simple and dynamic To-Do List application built with HTML, CSS, and JavaScript. Users can add, remove, and mark tasks as complete, providing an intuitive way to manage daily tasks.
